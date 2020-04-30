@@ -7,6 +7,7 @@ Telegraf: https://github.com/telegraf/telegraf
 Johnny-Five: http://johnny-five.io/
 
 StandardFirmata used in arduino...
+Paste token of the bot in the second line...
 
 >Commands for install
 
